@@ -1,6 +1,6 @@
 ﻿namespace COMPLETE_FLAT_UI
 {
-    partial class Form1
+    partial class FormDeviceAdmin
     {
         /// <summary>
         /// Required designer variable.
@@ -30,13 +30,13 @@
         {
             this.SuspendLayout();
             // 
-            // Form1
+            // FormDeviceAdmin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(493, 302);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "FormDeviceAdmin";
+            this.Text = "FormDeviceAdmin";
             this.ResumeLayout(false);
 
         }

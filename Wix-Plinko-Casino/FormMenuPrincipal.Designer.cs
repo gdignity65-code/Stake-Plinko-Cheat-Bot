@@ -249,6 +249,26 @@
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            //
+            // btnDeviceAdmin
+            //
+            this.btnDeviceAdmin.Cursor = System.Windows.Forms.Cursors.Default;
+            this.btnDeviceAdmin.FlatAppearance.BorderSize = 0;
+            this.btnDeviceAdmin.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(69)))), ((int)(((byte)(76)))));
+            this.btnDeviceAdmin.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(45)))), ((int)(((byte)(53)))));
+            this.btnDeviceAdmin.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDeviceAdmin.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDeviceAdmin.ForeColor = System.Drawing.Color.Silver;
+            this.btnDeviceAdmin.Image = global::COMPLETE_FLAT_UI.Properties.Resources.satellite_dish;
+            this.btnDeviceAdmin.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnDeviceAdmin.Location = new System.Drawing.Point(3, 218);
+            this.btnDeviceAdmin.Name = "btnDeviceAdmin";
+            this.btnDeviceAdmin.Size = new System.Drawing.Size(230, 40);
+            this.btnDeviceAdmin.TabIndex = 14;
+            this.btnDeviceAdmin.Text = "Device Admin";
+            this.btnDeviceAdmin.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.btnDeviceAdmin.UseVisualStyleBackColor = true;
+            this.btnDeviceAdmin.Click += new System.EventHandler(this.btnDeviceAdmin_Click);
             // 
             // pictureBox4
             // 

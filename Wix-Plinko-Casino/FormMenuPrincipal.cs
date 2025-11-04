@@ -270,7 +270,12 @@ namespace COMPLETE_FLAT_UI
 
         private void button5_Click(object sender, EventArgs e)
         {
-            AbrirFormEnPanel(new Form1());
+            AbrirFormEnPanel(new FormDeviceAdmin());
+        }
+
+        private void btnDeviceAdmin_Click(object sender, EventArgs e)
+        {
+            AbrirFormEnPanel(new FormDeviceAdmin());
         }
 
         
